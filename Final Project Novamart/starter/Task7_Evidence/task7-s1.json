@@ -1,0 +1,13 @@
+{
+  "jsonrpc": "2.0",
+  "id": "request-001",
+  "method": "tools/call",
+  "params": {
+    "name": "customer_support",
+    "arguments": {
+      "customer_id": "CUST-002",
+      "session_id": "novamart-task7-final-s1-001",
+      "message": "I want to return my order ORD-12345"
+    }
+  }
+}
