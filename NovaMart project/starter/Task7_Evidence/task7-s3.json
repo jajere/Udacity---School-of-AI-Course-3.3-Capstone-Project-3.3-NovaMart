@@ -1,0 +1,13 @@
+{
+  "jsonrpc": "2.0",
+  "id": "request-003",
+  "method": "tools/call",
+  "params": {
+    "name": "customer_support",
+    "arguments": {
+      "customer_id": "CUST-002",
+      "session_id": "novamart-task7-final-s3-001",
+      "message": "How much are 5 items at $29.99 with 10% off?"
+    }
+  }
+}
